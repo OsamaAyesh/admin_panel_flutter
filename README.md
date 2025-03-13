@@ -36,7 +36,7 @@ responsive.dart – Handles adaptive layouts for different screen sizes
 For Developers
 
 # Clone the repository:
-git clone https://github.com/your-repo/Flutter-Responsive-Admin.git
+git clone [https://github.com/your-repo/Flutter-Responsive-Admin.git](https://github.com/OsamaAyesh/admin_panel_flutter.git)
 
 # Navigate to the project directory:
 cd Flutter-Responsive-Admin
