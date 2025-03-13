@@ -51,17 +51,7 @@ flutter run
 ---
 
 ## 📄 License  
-This project is **open-source** and maintained by **[Your Organization]**. For licensing details, refer to the [LICENSE](LICENSE) file.
-
----
-
-## 💡 Contact & Updates  
-
-📩 **For inquiries:** **support@yourdomain.com**  
-🔗 **Follow us for updates:**  
-🌐 [Website](#) | 📸 [Instagram](#) | 🐦 [Twitter](#)  
-
----
+This project is open-source and maintained by individually by Osama Ayesh. For licensing details, refer to the LICENSE file.
 
 🚀 **Build scalable and responsive admin dashboards with Flutter!** 💻✨
 
